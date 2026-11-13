@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+message: "Please cite the associated manuscript when using this reproducibility archive."
+title: "When Vehicle Arrangement Matters for String Stability in Mixed Platoons"
+type: software
+version: "R1"
+authors:
+  - family-names: Zhang
+    given-names: Yuliang
+  - family-names: Wang
+    given-names: Yi
+  - family-names: Ai
+    given-names: Yi
+  - family-names: Yao
+    given-names: Zhihong
+repository-code: "https://github.com/DrArryYao/mixed-platoon-arrangement"
